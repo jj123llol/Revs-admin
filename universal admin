@@ -1,5 +1,3 @@
-getgenv().cmdbarprefix = Enum.KeyCode.Minus
-getgenv().selectedprefix = '>'
 --[[
 if you use any of this shit give credits!!!!
 if you use any of this shit give credits!!!!
